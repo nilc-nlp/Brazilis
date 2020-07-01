@@ -1,0 +1,14 @@
+
+import sqlite3
+import pickle
+
+with open('delaf_list') as fp:
+	delaf_list = pickle.load(fp)
+
+con = sqlite3.connect('delaf.database')
+cur = con.cursor()
+cur.execute('create table delaf (id int, word text, lemma text, info text)')
+con.commit()
+cur.executemany("INSERT INTO delaf VALUES (?,?,?,?)", delaf_list)
+con.commit()
+

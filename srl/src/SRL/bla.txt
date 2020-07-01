@@ -1,0 +1,6 @@
+<SRL role="A0" text="A aviação de Israel" /> realizou <SRL role="AM-TMP" text="durante a madrugada de esta segunda-feira" />, <SRL role="AM-TMP" text="dia 7" />, <SRL role="A1" text="ataques a 150 alvos em o Líbano" />.
+<SRL role="AM-TMP" text="Enquanto" /> <SRL role="A0" text="isso" />, <SRL role="A0" text="soldados israelenses" /> mataram <SRL role="A1" text="10 integrantes de a milícia de o Hezbollah" />.
+<SRL role="AM-TMP" text="Durante este domingo" />, <SRL role="AM-TMP" text="dia 6" />, foram travadas <SRL role="A1" text="lugas sangrentas" />.
+Os foguetes e ataques de o Hezbollah causaram <SRL role="A1" text="a morte de 15 pessoas" /> e deixaram <SRL role="A1" text="mais de 200 feridas" />.
+Já o Exército de Israel provocaram a morte de 30 militantes do Hezbollah.
+<SRL role="A0" text="Comandos israelenses" /> mataram <SRL role="A1" text="outros três guerrilheiros libaneses" /> <SRL role="AM-LOC" text="em a cidade de Tiro, onde destruíram <SRL role="A1" text="sete plataformas de lançamento de foguetes" />" />, informaram <SRL role="A1" text="as fontes israelenses" />.

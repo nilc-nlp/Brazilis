@@ -1,0 +1,690 @@
+(dp0
+Vldc
+p1
+VLiquid crystal display
+p2
+sVhvga
+p3
+VHalf-size video graphics array
+p4
+sVcdc
+p5
+VCódigo de defesa do consumidor
+p6
+sVabl
+p7
+VAuto brightness limiter
+p8
+sVaiff
+p9
+VAudio interchange file format
+p10
+sVmp4
+p11
+VMpeg-4 part 14
+p12
+sVpt-br
+p13
+VPortugues-brasil
+p14
+sVmp3
+p15
+VMpeg 1 layer-3
+p16
+sVps3
+p17
+VPlaystation 3
+p18
+sVptt
+p19
+VPush-to-talk
+p20
+sVd3
+p21
+VDiablo 3
+p22
+sVps4
+p23
+VPlaystation 4
+p24
+sVgta
+p25
+VGrand theft auto
+p26
+sVusb´s
+p27
+VUniversal serial bus
+p28
+sVdslr
+p29
+VDigital single-lens reflex
+p30
+sVhdds
+p31
+VHard disk drive
+p32
+sVhds
+p33
+VHDS
+p34
+sVjar
+p35
+VJava archive
+p36
+sVvcr
+p37
+VVideocassette recorder
+p38
+sVanatel
+p39
+VAgência nacional de telecomunicação
+p40
+sVtn
+p41
+VTwisted nematic
+p42
+sVrgb
+p43
+VRed green blue
+p44
+sVpci
+p45
+VPeripheral component interconnect
+p46
+sVpng
+p47
+VPortable network graphics
+p48
+sVwma
+p49
+VWindows media audio
+p50
+sVocr
+p51
+VOptical character recognition
+p52
+sVhsupa
+p53
+VHigh-speed uplink packet access
+p54
+sVmw3
+p55
+VModern warfare 3
+p56
+sVdj
+p57
+VDisc jockey
+p58
+sVddr3
+p59
+VDouble data rate 3
+p60
+sVfaq
+p61
+VFrequently asked questions
+p62
+sVedtv
+p63
+VEnhanced-definition televisio
+p64
+sVlcd
+p65
+VLiquid-crystal display
+p66
+sVssd
+p67
+VSolid-state drive
+p68
+sVpsp
+p69
+VPlaystation portable
+p70
+sVamr
+p71
+VAdaptive multi-rate
+p72
+sVsdhc
+p73
+VSecure digital high capacity
+p74
+sVvoip
+p75
+VVoice over internet protocol
+p76
+sVjrpg
+p77
+VJapanese role-playing games
+p78
+sVpes2012
+p79
+VPro evolution soccer 2012
+p80
+sVpes2013
+p81
+VPro evolution soccer 2013
+p82
+sVmhl
+p83
+VMobile high-definition link
+p84
+sVnfc
+p85
+VNear field communication
+p86
+sVips
+p87
+VIn-plane switching
+p88
+sVmicro-usb
+p89
+VMICRO-USB
+p90
+sVevf
+p91
+VEletronic view finder
+p92
+sVnfs
+p93
+VNeed for speed
+p94
+sVspdif
+p95
+VSony/philips digital interface format
+p96
+sVbios
+p97
+VBasic input/output system
+p98
+sVdpi
+p99
+VDots per inch
+p100
+sVgprs
+p101
+VGeneral packet radio service
+p102
+sVrms
+p103
+VRoot mean square
+p104
+sVagps
+p105
+VAssisted gps
+p106
+sVusbs
+p107
+VUSBS
+p108
+sVmdf
+p109
+VMedium density fiberboard
+p110
+sVdvd-r
+p111
+VDigital video disc recorder
+p112
+sVpvc
+p113
+VPolyvinyl chloride
+p114
+sVrma
+p115
+VReturn merchandise authorization
+p116
+sVhd´s
+p117
+VHard disks
+p118
+sVdlc
+p119
+VDownloadable content
+p120
+sVpet
+p121
+VPolitereftalato de etileno
+p122
+sVwow
+p123
+VWorld of warcraft
+p124
+sVsms
+p125
+VShort message service
+p126
+sVtcc
+p127
+VTrabalho de conclusão de curso
+p128
+sVac3
+p129
+VAudio codec 3
+p130
+sVumd
+p131
+VUniversal media disc
+p132
+sVrf
+p133
+VRadiofrequência
+p134
+sVics
+p135
+VIce cream sandwich
+p136
+sVdse
+p137
+VDirty screen effect
+p138
+sVhmdi
+p139
+VHigh-definition multimidia interface 
+p140
+sVgvt
+p141
+VGlobal village telecom
+p142
+sVusb2
+p143
+VUniversal serial bus 2
+p144
+sVusb3
+p145
+VUniversal serial bus 3
+p146
+sVhdmi
+p147
+VHigh-definition multimedia interface
+p148
+sVmms
+p149
+VMultimedia message system
+p150
+sVdslrs
+p151
+VDigital single-lens reflex
+p152
+sVcodecs
+p153
+VCompressor-decompressor
+p154
+sVmma
+p155
+VMixed martial arts
+p156
+sVdlcs
+p157
+VDownloadable content
+p158
+sVacc
+p159
+VAdvanced audio coding\u200e
+p160
+sVbga
+p161
+VBall grid array
+p162
+sVrds
+p163
+VRadio data system
+p164
+sVdrm
+p165
+VDigital rights management
+p166
+sVcod
+p167
+VCall of duty
+p168
+sVlte
+p169
+VLong term evolution
+p170
+sVglp
+p171
+VGás liquefeito de petróleo
+p172
+sVpdf
+p173
+VPortable document format
+p174
+sVnds
+p175
+VNintendo dual screen
+p176
+sVpda
+p177
+VPersonal digital assistant
+p178
+sVhtml5
+p179
+VHypertext markup language
+p180
+sVwlan
+p181
+VWireless local area network
+p182
+sVppi
+p183
+VPixels per inch
+p184
+sVdtmf
+p185
+VDual-tone multi-frequency
+p186
+sVwmv
+p187
+VWindows media video format
+p188
+sVapk
+p189
+VAndroid package
+p190
+sVpvr
+p191
+VPersonal video recorder
+p192
+sVpdfs
+p193
+VPDFS
+p194
+sVusb
+p195
+VUniversal serial bus
+p196
+sVgif
+p197
+VGraphics interchange format
+p198
+sVdnie
+p199
+VDigital natural image engine
+p200
+sVbbb
+p201
+VBom, bonito e barato
+p202
+sVpabx
+p203
+VPrivate automatic branch exchange
+p204
+sVa2dp
+p205
+VAdvanced audio distribution profile
+p206
+sVrmvb
+p207
+VReal media variable bitrate
+p208
+sVmmc
+p209
+VMultimedia card
+p210
+sVsnes
+p211
+VSuper nintendo entertainment system
+p212
+sVgpu
+p213
+VGraphics processing unit
+p214
+sVrca
+p215
+VRadio corporation of america
+p216
+sVwap
+p217
+VWireless application protocol
+p218
+sVaac+
+p219
+VAdvanced audio coding\u200e
+p220
+sVlcds
+p221
+VLiquid crystal display
+p222
+sVflac
+p223
+VFree lossless audio codec
+p224
+sVtft
+p225
+VThin-film transistor
+p226
+sVhd
+p227
+VHard disk
+p228
+sVdmc
+p229
+VDevil may cry
+p230
+sVgnv
+p231
+VGás natural veicular
+p232
+sVhdr
+p233
+VHigh-dynamic-range rendering
+p234
+sVaac
+p235
+VAdvanced audio coding
+p236
+sVuv
+p237
+VUltra violeta
+p238
+sVwidi
+p239
+VWireless display
+p240
+sVvhs
+p241
+VVideo home system
+p242
+sVflv
+p243
+VFLV
+p244
+sVoled
+p245
+VOrganic light-emitting diode
+p246
+sVs-vhs
+p247
+VSuper video home system
+p248
+sVmtb
+p249
+VMTB
+p250
+sVdtv
+p251
+VDirect-to-video
+p252
+sVhdi
+p253
+VHigh-definition multimedia interface
+p254
+sVmicrousb
+p255
+VMICROUSB
+p256
+sVvob
+p257
+VVideo object
+p258
+sVip
+p259
+VIP
+p260
+sVsmtp
+p261
+VSimple mail transfer protocol
+p262
+sVjpg
+p263
+VJoint photographic experts group
+p264
+sVcbr
+p265
+VComic book reader
+p266
+sVirda
+p267
+VInfrared data association
+p268
+sVvr
+p269
+VVibration reduction
+p270
+sVavi
+p271
+VAudio video interleave
+p272
+sVvesa
+p273
+VVideo electronics standards association
+p274
+sVpip
+p275
+VPicture-in-picture
+p276
+sVpsn
+p277
+VPlaystation network
+p278
+sVadsl
+p279
+VAsymmetric digital subscriber line
+p280
+sVhdmis
+p281
+VHDMIS
+p282
+sVcmos
+p283
+VComplementary metal-oxide-semiconductor
+p284
+sVsdram
+p285
+VSynchronous dynamic random access memory
+p286
+sVdsrl
+p287
+VDigital single-lens reflex camera
+p288
+sVmkv
+p289
+VMatroska video format
+p290
+sVvga
+p291
+VVideo graphics array
+p292
+sVhtml
+p293
+VHTML
+p294
+sVmini-usb
+p295
+VMINI-USB
+p296
+sVutf-8
+p297
+VUnicode transfomation format - 8 bits
+p298
+sVsmss
+p299
+VShort message service
+p300
+sVaps-c
+p301
+VAdvanced photo system type-c
+p302
+sVlan
+p303
+VLocal area network
+p304
+sVamoled
+p305
+VActive-matrix organic light-emitting diode
+p306
+sVubs
+p307
+VUniversal serial bus
+p308
+sVlag
+p309
+VLatency at game
+p310
+sVwps
+p311
+VWi-fi simple config
+p312
+sVbsi
+p313
+VBackside illumination
+p314
+sVccd
+p315
+VCCD
+p316
+sVhsdpa
+p317
+VHigh-speed downlink packet access
+p318
+sVimetro
+p319
+VInstituto de metrologia
+p320
+sVepub
+p321
+VElectronic publication
+p322
+sVntfs
+p323
+VNew technology file system
+p324
+sVdvi
+p325
+VDigital visual interface
+p326
+sVroms
+p327
+VRead only memory
+p328
+sVdvd
+p329
+VDigital video disc
+p330
+sVfsk
+p331
+V frequency-shift keying
+p332
+sVcpf
+p333
+VCadastro de pessoas físicas
+p334
+sVdlna
+p335
+VDigital living network alliance
+p336
+sVa-gps
+p337
+VAssisted global positioning system
+p338
+sVepg
+p339
+VElectronic programming guide
+p340
+sVgsm
+p341
+VGroup spécial mobile
+p342
+sVsd
+p343
+VSecure digital card
+p344
+s.

@@ -1,0 +1,6 @@
+1    	Isso                     	isso                     	PRON-INDP 	M|S            	(S*       	(FCL*     	(FCL(NP*)      	-              	-         	*         
+2    	é                        	ser                      	V-FIN     	PR|3S|IND|VFIN 	*         	*         	(VP*)          	-              	ser       	(V*)      
+3    	um                       	um                       	PRON-DET  	DET|M|S        	*         	*         	(NP*           	-              	-         	*         
+4    	teste                    	teste                    	N         	M|S            	*         	*         	*)             	-              	-         	*         
+5    	.                        	-                        	PU        	-              	*)        	*)        	*)             	-              	-         	*         
+

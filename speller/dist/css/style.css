@@ -1,0 +1,8 @@
+.limit{width:895px;margin:50px auto;background:white;display:block;border-top:10px solid #f9f9f9;-webkit-box-shadow:0px 0px 5px rgba(0,0,0,0.3);box-shadow:0px 0px 5px rgba(0,0,0,0.3);-moz-box-shadow:0px 0px 5px rgba(0,0,0,0.3);}
+label {width:100%;display: block;padding:10px 0 10px 5px;}
+label .it{display: block;font-size:14px;float:left;width:100px;text-align:right;padding:5px 20px 0 0;}
+.input_text {padding:10px 10px;width:700px;height:100px;border:1px solid #dadada;}
+#button{cursor:pointer;padding:4px 7px;font-size:13px;font-weight:bold;color:black;border-color:##8787ff;background:#FFF;position: relative;top:0px;left:400px;width:100px;margin:5px 0;}
+#logo{background-image:url(http://www.nilc.icmc.usp.br/nilc/templates/nilc/images/background_header.png);}
+h2{font-size: 36px;font-weight: bold;margin: 30px auto;background: white;display:table;padding: 7px;border: 1px solid #d0d8e3;}
+#rodape {float: left;width: 100%;color: black;border-top: 2px solid #61819E;border-bottom: 2px solid #61819E;margin-top: 15px; text-align: center;}
